@@ -1,0 +1,2 @@
+# requirements.txt
+# This file is currently empty as the project does not require any external Python packages.
